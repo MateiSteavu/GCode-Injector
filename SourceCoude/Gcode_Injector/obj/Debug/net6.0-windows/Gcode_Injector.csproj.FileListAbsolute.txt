@@ -1,0 +1,17 @@
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\bin\Debug\net6.0-windows\Gcode_Injector.exe
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\bin\Debug\net6.0-windows\Gcode_Injector.deps.json
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\bin\Debug\net6.0-windows\Gcode_Injector.runtimeconfig.json
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\bin\Debug\net6.0-windows\Gcode_Injector.dll
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\bin\Debug\net6.0-windows\Gcode_Injector.pdb
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.Form1.resources
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.AssemblyInfoInputs.cache
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.AssemblyInfo.cs
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.dll
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\refint\Gcode_Injector.dll
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.pdb
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.genruntimeconfig.cache
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\ref\Gcode_Injector.dll
+C:\Users\matia\Desktop\Projects\GCODE_Injector\Gcode_Injector\Gcode_Injector\obj\Debug\net6.0-windows\Gcode_Injector.Properties.Resources.resources
